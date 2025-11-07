@@ -1,0 +1,11 @@
+
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+torch
+PyMuPDF
+streamlit
+huggingface_hub
+streamlit
+requests
